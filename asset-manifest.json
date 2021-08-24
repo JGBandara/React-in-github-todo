@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/JGBandara/React-in-github-todo.git/static/css/main.d03adc5f.chunk.css",
+    "main.js": "/JGBandara/React-in-github-todo.git/static/js/main.cb6a55ef.chunk.js",
+    "main.js.map": "/JGBandara/React-in-github-todo.git/static/js/main.cb6a55ef.chunk.js.map",
+    "runtime-main.js": "/JGBandara/React-in-github-todo.git/static/js/runtime-main.83a7c2f1.js",
+    "runtime-main.js.map": "/JGBandara/React-in-github-todo.git/static/js/runtime-main.83a7c2f1.js.map",
+    "static/js/2.7b84f69a.chunk.js": "/JGBandara/React-in-github-todo.git/static/js/2.7b84f69a.chunk.js",
+    "static/js/2.7b84f69a.chunk.js.map": "/JGBandara/React-in-github-todo.git/static/js/2.7b84f69a.chunk.js.map",
+    "static/js/3.f3a348dd.chunk.js": "/JGBandara/React-in-github-todo.git/static/js/3.f3a348dd.chunk.js",
+    "static/js/3.f3a348dd.chunk.js.map": "/JGBandara/React-in-github-todo.git/static/js/3.f3a348dd.chunk.js.map",
+    "index.html": "/JGBandara/React-in-github-todo.git/index.html",
+    "static/css/main.d03adc5f.chunk.css.map": "/JGBandara/React-in-github-todo.git/static/css/main.d03adc5f.chunk.css.map",
+    "static/js/2.7b84f69a.chunk.js.LICENSE.txt": "/JGBandara/React-in-github-todo.git/static/js/2.7b84f69a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/JGBandara/React-in-github-todo.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83a7c2f1.js",
+    "static/js/2.7b84f69a.chunk.js",
+    "static/css/main.d03adc5f.chunk.css",
+    "static/js/main.cb6a55ef.chunk.js"
+  ]
+}
